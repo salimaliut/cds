@@ -1,0 +1,14 @@
+
+.mainproject a
+{
+    opacity: 1
+}
+
+.mainproject a:hover
+{
+    opacity: 0.5;
+}
+body
+{
+	font-family: 'Oswald', Helvetica, Arial, Lucida, sans-serif !important;
+}

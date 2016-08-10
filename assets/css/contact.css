@@ -1,0 +1,34 @@
+.contactform div 
+{
+	margin-left: 20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+
+}
+ input
+ {
+ 	width: 60%;
+ } 
+ textarea
+ {
+ 	height: 100px;
+ 	width: 60%;
+ }
+ 
+ .mai
+ {
+	 margin-left:50px;
+	 
+ }
+ #mps
+ {
+	  margin-left: 20px;
+ }
+ #maps
+ {
+	 
+	 margin: 10px;
+ }
+.main
+{
+	}
